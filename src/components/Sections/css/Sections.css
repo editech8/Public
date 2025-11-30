@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.horizontal{
+    width: 100%;
+    height: 1px;
+    background-color: #cfcfcf;
+    position: fixed;
+    top: 142px;
+}
+.vertical{
+    height: 384px;
+    width: 1px;
+    background-color: #cfcfcf;
+    position: fixed;
+    left: 368px;
+    top: 142px;
+}

@@ -1,0 +1,10 @@
+.NavBar{
+    /* Remove marging later */
+    margin: auto; 
+    margin-top: 40px;
+    height: 38px;
+    width: 1170px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

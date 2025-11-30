@@ -1,0 +1,14 @@
+.quickLinkBox{
+    width: 109px;
+    height: 196px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.quickLinkBoxBottom{
+    width: 109px;
+    height: 144px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
