@@ -1,13 +1,19 @@
-import React from 'react'
-import './css/Sections.css'
+import React from "react";
+import "./css/Sections.css";
+import Categories from "../Categories/Categories";
+import ProductShowCase from "../ProductShowcase/ProductShowCase";
 
 const Sections = () => {
   return (
-    <div>
-      <div className='horizontal'></div>
-      <div className='vertical'></div>
+    <div className="categoriesAndShowCase">
+      <div className="vertical">
+        <Categories />
+      </div>
+      <div className="horizontal">
+        <ProductShowCase />
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default Sections
+export default Sections;

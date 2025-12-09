@@ -1,28 +1,27 @@
 .footer{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     height: 440px;
     width: 100%;
-    position: fixed;
-    bottom: 0;
     color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 100px;
 }
 .bottom{
     width: 100%;
     display: flex;
-    position: absolute;
     align-items: center;
     justify-content: center;
     color: #363636;
-    top: 376px;
     font-size: 24px;
+    margin-top: 76px;
     gap: 10px;
-    border: 1px solid #363636;
+    border-top: 1px solid #363636; ;
+    /* border: 1px solid #363636;
     border-left: none;
     border-right: none;
-    border-bottom: none;
+    border-bottom: none; */
     padding-top: 10px;
 }
 .ccText{
@@ -31,8 +30,8 @@
 .topper{
     width: 1170px;
     height: 236px;
-    position: absolute;
-    top: 80px;
+    margin-top: 80px;
+    margin-left: 135px;
     display: flex;
     justify-content: space-between;
     align-items: start;

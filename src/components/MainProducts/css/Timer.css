@@ -1,0 +1,23 @@
+.time{
+    height: 50px;
+    width: 302px;
+    display: flex;
+    justify-content: space-between;
+}
+.time > p{
+    font-size: 32px;
+    color: #db4444;
+    margin-top: 10px;
+}
+.timeComponent > p{
+    font-size: 12px;
+    font-weight: 400;
+}
+.timeComponent{
+    font-size: 32px;
+    font-weight: 600;
+}
+.timeDay {
+    display: flex;
+    justify-content: space-between;
+}

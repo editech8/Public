@@ -1,0 +1,14 @@
+.mainBodyProductList {
+    height: 493px;
+    /* margin-left: 135px; */
+    margin-left: 7vw;
+    margin-top: 100px;
+}
+.salaAndTime{
+    height: 103px;
+    width: 1170px;
+}
+.actualProducts{
+    height: 350px;
+    width: 92vw;
+}

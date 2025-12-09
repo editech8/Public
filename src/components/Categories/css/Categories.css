@@ -5,13 +5,15 @@
 .categories{
     height: 344px;
     width: 217px;
-    position: fixed;
+    /* position: fixed;
     top: 182px;
-    left: 135px;
+    left: 135px; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: start;;
+    
+    align-items: start;
+    
 }
 .womanFashion,.menFashion{
     width: 100%;
