@@ -1,7 +1,7 @@
 import React from "react";
 import "./css/Sections.css";
 import Categories from "../Categories/Categories";
-import ProductShowCase from "../ProductShowcase/ProductShowCase";
+import ProductShowCase from "../ProductShowCase/ProductShowCase";
 
 const Sections = () => {
   return (
